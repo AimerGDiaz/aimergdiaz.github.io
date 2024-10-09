@@ -1,13 +1,10 @@
 ---
-title: "index"
+title: "CV"
 output: github_document
 ---
-# CV
-
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-
 
 ### Category Name 2
 
