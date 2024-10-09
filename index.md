@@ -5,7 +5,7 @@ index
 
 ### Category Name 1
 
-[Project 1 Title](/sample_page) <img src="images/Me.jpg?raw=true"/>
+[Project 1 Title](/sample_page)
 
 ### Category Name 2
 
