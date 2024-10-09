@@ -1,11 +1,13 @@
-index
-================
-
+---
+title: "index"
+output: github_document
+---
 # CV
 
-### Category Name 1
+### Category Name 1 
 
-[Project 1 Title](/sample_page) <img src="images/me.jpg?raw=true"/>
+[Project 1 Title](/sample_page)
+<img src="images/me.jpg?raw=true"/>
 
 ### Category Name 2
 
