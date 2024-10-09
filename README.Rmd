@@ -1,0 +1,13 @@
+---
+title: "Aimer CV"
+output: github_document
+bibliography: References.bib
+link-citations: true
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/biomed-central.csl
+---
+@salcedo2024proend 
+@gutierrez2024systematic
+@jiang2020synergy
+@alvarez2019dengue
+
+# Scientific publications

@@ -1,55 +1,47 @@
-## Developer Portfolio Landing Page Template
+Aimer CV
+================
 
-### ⚠️ Project Discontinued ⚠️
+\[[1](#ref-salcedo2024proend)\] \[[2](#ref-gutierrez2024systematic)\]
+\[[3](#ref-jiang2020synergy)\] \[[4](#ref-alvarez2019dengue)\]
 
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+# Scientific publications
 
----
+<div id="refs" class="references csl-bib-body">
 
-### Introduction
+<div id="ref-salcedo2024proend" class="csl-entry">
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+1\. Salcedo-Tacuma DM, Howells G, McHose C, Gutierrez-Diaz A, Smith DM.
+ProEnd: A comprehensive database for identifying HbYX motif-containing
+proteins across the tree of life. bioRxiv. 2024;2024–06.
 
-### Installation
+</div>
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+<div id="ref-gutierrez2024systematic" class="csl-entry">
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+2\. Gutierrez-Diaz A, Hoffmann S, Gallego-Gómez JC, Bermudez-Santana CI.
+Systematic computational hunting for small RNAs derived from ncRNAs
+during dengue virus infection in endothelial HMEC-1 cells. Frontiers in
+Bioinformatics. 2024;4:1293412.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</div>
 
-### Markdown
+<div id="ref-jiang2020synergy" class="csl-entry">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3\. Jiang N, Gutierrez-Diaz A, Mukundi E, Lee YS, Meyers BC, Otegui MS,
+et al. Synergy between the anthocyanin and RDR6/SGS3/DCL4 siRNA pathways
+expose hidden features of arabidopsis carbon metabolism. Nature
+communications. 2020;11:2456.
 
-```markdown
-Syntax highlighted code block
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+<div id="ref-alvarez2019dengue" class="csl-entry">
 
-- Bulleted
-- List
+4\. Álvarez-Dı́az DA, Gutiérrez-Dı́az AA, Orozco-Garcı́a E, Puerta-González
+A, Bermúdez-Santana CI, Gallego-Gómez JC. Dengue virus potentially
+promotes migratory responses on endothelial cells by enhancing
+pro-migratory soluble factors and miRNAs. Virus research.
+2019;259:68–76.
 
-1. Numbered
-2. List
+</div>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+</div>
