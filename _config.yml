@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 Passionate about integrating computational and experimental approaches to unravel the complexity of <br>
 plant-virus interactions and regulatory networks. <br>
 
-  <a href="https://scholar.google.com/citations?user=qqTfq88AAAAJ&hl=en">View My Scholar Google Profile</a> 
+<a href="https://scholar.google.com/citations?user=qqTfq88AAAAJ&hl=en">View My Scholar Google Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
