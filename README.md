@@ -31,6 +31,22 @@ bioinformatics tool called
 \[[2](#ref-gutierrez2024systematic)\] to distinguish the expression of
 small RNAs from background noise in the ncRNA source.
 
+<div style="text-align: center;">
+
+<figure>
+<img src="images/Final_grid.png" style="width: 60%;
+height: 60%"/>
+<figcaption style="margin-top: 10px;">
+
+<strong>NBlockTester: tRNA-derived fragments detection</strong>
+
+</figcaption>
+</figure>
+
+<a name="NBlockTester"></a>
+
+</div>
+
 More recently, before beginning my Ph.D. in Sweden, I had the
 opportunity to work as visiting research in two laboratories. First in
 the Dr. Erich Grotewold lab, I worked with transcriptomic and small
@@ -45,8 +61,25 @@ role in RNA editing of mRNAs but may also function as a mutational
 robustness system that protects the mitochondrial genome during severe
 and periodic bottlenecks.
 
+<div style="text-align: center;">
+
+<figure>
+<img src="images/synergy.png" style="width: 100%;
+height: auto"/>
+<figcaption style="margin-top: 10px;">
+
+<strong>Flavonoid flux maps displaying synergy effect between
+anthocyanin and RDR6/SGS3/DCL4 siRNA pathway</strong>
+
+</figcaption>
+</figure>
+
+<a name="synergy"></a>
+
+</div>
+
 Lastly, In collaboration with [David
-Salcedo](https://github.com/drTakuOmics) at David Smith’s lab, I
+Salcedo](https://drtakuomics.github.io/) at David Smith’s lab, I
 co-developed the ProEnd database, which analyzes HbYX motif-containing
 proteins across all life proteomes, of course including viruses
 \[[4](#ref-salcedo2024proend)\]. Our work has focused on exploring the
@@ -56,6 +89,22 @@ integrated bioinformatics approaches with experimental validation,
 identifying novel candidates that may expand the known roles of
 HbYX-like sequences.
 
+<div style="text-align: center;">
+
+<figure>
+<img src="images/Proend20S.png" style="width: 60%;
+height: auto"/>
+<figcaption style="margin-top: 10px;">
+
+<strong>Proend: 20S structural interacting HbYX motif detection</strong>
+
+</figcaption>
+</figure>
+
+<a name=""></a>
+
+</div>
+
 ## Teaching activities
 
 I’ve developed the [Sociovirology
@@ -64,6 +113,22 @@ practice in which masters students investigate how variations in viral
 genetics lead to differential impacts on plant growth and defense
 trade-off. This is achieved using the compatible *Nicotiana benthamiana*
 / *Potyvirus rapae* (Turnip Mosaic Virus) pathosystem.
+
+<div style="text-align: center;">
+
+<figure>
+<img src="images/TuMV_GFP.png" style="width: 80%;
+height: auto"/>
+<figcaption style="margin-top: 10px;">
+
+<strong>TuMV GFP expression in *Nicotiana benthamiana*</strong>
+
+</figcaption>
+</figure>
+
+<a name="TuMV_GFP"></a>
+
+</div>
 
 ## Public repositories
 
@@ -115,7 +180,24 @@ Private repositories
 
 # Science communication
 
-- [Bio-Viroloía](https://github.com/AimerGDiaz/Bio-Virologia)
+- [Bio-Viroloía](https://github.com/AimerGDiaz/Bio-Virologia) blog and
+  [bookdown](https://aimergdiaz.github.io/Bio-Virologia/)
+
+<div style="text-align: center;">
+
+<figure>
+<img src="images/Cover.png" style="width: 100%;
+height: auto"/>
+<figcaption style="margin-top: 10px;">
+
+<strong>Bio-Viroloía logo</strong>
+
+</figcaption>
+</figure>
+
+<a name="TuMV_GFP"></a>
+
+</div>
 
 # Scientific publications
 
