@@ -118,7 +118,7 @@ Private repositories
 
 # Additional repositories
 
--   [IP-Proteomis: Dfifrential Viral manipulation of UPBs](https://github.com/AimerGDiaz/Ub_IP_TuMV-CMV-CaMV)
+-   [IP-Proteomis: Diferential Viral manipulation of UPBs](https://github.com/AimerGDiaz/Ub_IP_TuMV-CMV-CaMV)
 
 -   [CaMV manipulation of autophagy pathway](https://github.com/AimerGDiaz/IP_ATG8a-NBR1)
 
