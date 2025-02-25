@@ -1,13 +1,15 @@
-title: Aimer G. Diaz # your name (or website title) here
-logo: "images/Me.jpg?raw=true" # your photo (or logo) here
+title: Aimer G. Diaz 
+logo: "images/Me.jpg?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
+ I am a Biologist and M.Sc. Bioinformatics from the [Universidad Nacional de Colombia](https://unal.edu.co/).   <br>
+ Currently I am a PhD student at the Department of Plant Biology at [SLU](https://www.slu.se/),   <br> 
+ working in [Dr. Hafrén's lab](https://andershafren.wixsite.com/website) on in Plant-Virus Molecular interactions.   <br>
+ My Ph.D. research focuses on how plant viruses manipulate Arabidopsis's post-transcriptional regulatory mechanisms,  <br>
+ including RNA interference machinery, Stress granules, and Translational regulation.
   <br><br>
   <a href="https://scholar.google.com/citations?user=qqTfq88AAAAJ&hl=en">View My Scholar Google Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 
