@@ -59,7 +59,7 @@ Lastly, In collaboration with [David Salcedo](https://drtakuomics.github.io/) at
 <figure>
 
 ```{=html}
-<img src="images/Proend20S.png" style="width: 60%;
+<img src="images/Proend20S.png" style="width: 100%;
 height: auto"/>
 ```
 <figcaption style="margin-top: 10px;">

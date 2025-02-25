@@ -92,7 +92,7 @@ HbYX-like sequences.
 <div style="text-align: center;">
 
 <figure>
-<img src="images/Proend20S.png" style="width: 60%;
+<img src="images/Proend20S.png" style="width: 100%;
 height: auto"/>
 <figcaption style="margin-top: 10px;">
 
