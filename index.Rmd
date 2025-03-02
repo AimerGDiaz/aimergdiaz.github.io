@@ -9,8 +9,8 @@ I am a Biologist and M.Sc. Bioinformatics from the [Universidad Nacional de Colo
 
 # Content 
 
-1. [Research experience & Publications](/Rexperience)
-2. [SLU Teaching Courses](/SLUTeaching)
+1. [Research experience & Publications](https://aimergdiaz.github.io/AimerGDiaz/Rexperience)
+2. [SLU Teaching Courses](https://aimergdiaz.github.io/AimerGDiaz/SLUTeaching)
 3. [Bioinformatic Tools](https://github.com/AimerGDiaz/#public-repositories)
 4. [Scientific Outreach](https://github.com/AimerGDiaz/#science-communication)
 
