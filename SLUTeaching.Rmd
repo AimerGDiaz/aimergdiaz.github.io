@@ -1,0 +1,26 @@
+---
+title: "Teaching activities"
+output: github_document
+bibliography: References.bib
+link-citations: true
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/biomed-central.csl
+---
+I've developed the [Sociovirology Lab](https://github.com/AimerGDiaz/Sociovirology_Lab), a laboratory practice in which masters students investigate how variations in viral genetics lead to differential impacts on plant growth and defense trade-off. This is achieved using the compatible *Nicotiana benthamiana* / *Potyvirus rapae* (Turnip Mosaic Virus) pathosystem.
+
+::: {style="text-align: center;"}
+<figure>
+
+```{=html}
+<img src="images/TuMV_GFP.png" style="width: 80%;
+height: auto"/>
+```
+<figcaption style="margin-top: 10px;">
+
+<strong>TuMV GFP expression in *Nicotiana benthamiana*</strong>
+
+</figcaption>
+
+</figure>
+
+<a name="TuMV_GFP"></a>
+:::
