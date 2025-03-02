@@ -12,8 +12,8 @@ Translational regulation.
 
 # Content
 
-1.  [Research experience & Publications](/AimerGDiaz/Rexperience)
-2.  [SLU Teaching Courses](AimerGDiaz/SLUTeaching)
+1.  [Research experience & Publications](/Rexperience)
+2.  [SLU Teaching Courses](/SLUTeaching)
 3.  [Bioinformatic
     Tools](https://github.com/AimerGDiaz/#public-repositories)
 4.  [Scientific
