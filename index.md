@@ -14,28 +14,31 @@ Translational regulation.
 
 1.  [Research experience & Publications](/Rexperience)
 2.  [SLU Teaching Courses](/SLUTeaching)
-3.  [Bioinformatic
-    Tools](https://github.com/AimerGDiaz/#public-repositories)
-4.  [Scientific
-    Outreach](https://github.com/AimerGDiaz/#science-communication)
+3.  [Bioinformatic Tools](/BioinfoTools)
+4.  [PhD projects](/PhDRepo)
 
-## Public repositories
+# Scientific Outreach
 
-- [ProEnd](https://github.com/AimerGDiaz/proend-scripts)
+Science communication blog:
 
-- [NBlockTester](https://github.com/AimerGDiaz/NBlockTester)
+- [Bio-Viroloía](https://github.com/AimerGDiaz/Bio-Virologia) blog and
+  [bookdown](https://aimergdiaz.github.io/Bio-Virologia/)
 
-- [Selection of codes in bash, awk, perl, python and
-  R](https://github.com/AimerGDiaz/Codes_Repository)
+<div style="text-align: center;">
 
-<!--
-# PhD projects
-&#10;Private repositories
-&#10;-   [Vertical Virus Transmission in RNA Interference Deficient Plants](https://github.com/AimerGDiaz/TRoV_NextGeneration)
-&#10;-   [Rider of the Plant’s defense storm: Turnip Mosaic Virus modulates Plant’s stress granule response](https://github.com/AimerGDiaz/TuMV_SG_repurposing)   
-&#10;-   [CaMV and the Nightless Day: The Virus That Keeps Arabidopsis in a State of Restless Translation](https://github.com/AimerGDiaz/UPSC_Riboseq)
-&#10;-   [Mutually Exclusive Binding of P6 Complexes to dsRNA or TOR Determines Its Role in Transactivation vs RNA-granules Condensation](https://github.com/AimerGDiaz/ProteinStructure)
--->
+<figure>
+<img src="images/Cover.png" style="width: 100%;
+height: auto"/>
+<figcaption style="margin-top: 10px;">
+
+<strong>Bio-Viroloía logo</strong>
+
+</figcaption>
+</figure>
+
+<a name="TuMV_GFP"></a>
+
+</div>
 
 # Additional repositories
 
@@ -56,24 +59,3 @@ Translational regulation.
 - [*Trypanosomes* Guide RNAs
   Networks](https://github.com/AimerGDiaz/gRNA-Annotation)
   <!--https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd-->
-
-# Science communication
-
-- [Bio-Viroloía](https://github.com/AimerGDiaz/Bio-Virologia) blog and
-  [bookdown](https://aimergdiaz.github.io/Bio-Virologia/)
-
-<div style="text-align: center;">
-
-<figure>
-<img src="images/Cover.png" style="width: 100%;
-height: auto"/>
-<figcaption style="margin-top: 10px;">
-
-<strong>Bio-Viroloía logo</strong>
-
-</figcaption>
-</figure>
-
-<a name="TuMV_GFP"></a>
-
-</div>
