@@ -15,7 +15,7 @@ Translational regulation.
 1.  [Research experience & Publications](/Rexperience)
 2.  [SLU Teaching Courses](/SLUTeaching)
 3.  [Bioinformatic Tools](/BioinfoTools)
-4.  [PhD projects](/PhDRepo)
+4.  [PhD projects](/PhDProjects)
 
 # Scientific Outreach
 
