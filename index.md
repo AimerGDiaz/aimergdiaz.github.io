@@ -16,6 +16,8 @@ granules, and Translational regulation.
 2.  [SLU Teaching Courses](/SLUTeaching)
 3.  [Bioinformatic Tools](/BioinfoTools)
 4.  [PhD projects](/PhDProjects)
+5.  <a href="/aimer-thesis-interactive.html" target="_blank" rel="noopener noreferrer">Interactive
+    Thesis (opens in a new tab)</a>
 
 # Scientific Outreach
 
@@ -39,6 +41,55 @@ height: auto"/>
 <a name="TuMV_GFP"></a>
 
 </div>
+
+## Public Research
+
+- [ComparativeTranscriptomics_SA_ATGs](https://github.com/AimerGDiaz/ComparativeTranscriptomics_SA_ATGs)
+  — Comparative analysis of salicylic acid and autophagy gene responses
+  to viral infection using published RNA-seq data.
+- [P25_ViralTF](https://github.com/AimerGDiaz/P25_ViralTF) — Research on
+  the BNYVV P25 protein as a chromatin-associated transcriptional
+  repressor.
+- [ProteinStructure](https://github.com/AimerGDiaz/ProteinStructure) —
+  Structural analysis workflows for CaMV P6 complexes predicted with
+  AlphaFold 3 and Protenix.
+- [RdRpStructuralEvolution](https://github.com/AimerGDiaz/RdRpStructuralEvolution)
+  — RdRp structures and transcriptomics supporting research on RNA
+  silencing, plant fertility, and Turnip rosette virus transmission.
+- [TpUGT89B1_Docking](https://github.com/AimerGDiaz/TpUGT89B1_Docking) —
+  Structural modeling and protein–ligand docking of red clover
+  TpUGT89B1.
+
+## Tools and workflows
+
+- [Codes_Repository](https://github.com/AimerGDiaz/Codes_Repository) — A
+  collection of Bash, AWK, Perl, and R code.
+
+- [NBlockTester](https://github.com/AimerGDiaz/NBlockTester) — A Perl
+  tool for detecting miRNA-like fragments derived from small noncoding
+  RNAs in small RNA-seq data.
+
+- [Proend](https://github.com/AimerGDiaz/Proend) (fork) — HbYX motif
+  prediction across organisms and viruses.
+
+- [proend-scripts](https://github.com/AimerGDiaz/proend-scripts) (fork)
+  — Scripts for identifying HbYX motif-containing protein sequences in
+  FASTA files.
+
+- [RNAseq-workflow](https://github.com/AimerGDiaz/RNAseq-workflow)
+  (fork) — Resources for setting up an RNA-seq workflow.
+
+## Teaching and learning
+
+- [Hands_On_Machine_LeaRning](https://github.com/AimerGDiaz/Hands_On_Machine_LeaRning)
+
+- [Sociovirology_Lab](https://github.com/AimerGDiaz/Sociovirology_Lab) —
+  A laboratory exercise on viral genetics and plant growth–defense
+  trade-offs in the Nicotiana benthamiana / Turnip mosaic virus system.
+
+- [LaTeX_Course](https://github.com/AimerGDiaz/LaTeX_Course) (fork) —
+  Introductory LaTeX course materials, templates, examples, and
+  exercises in Spanish.
 
 # Additional repositories
 
