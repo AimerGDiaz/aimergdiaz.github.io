@@ -15,9 +15,8 @@ granules, and Translational regulation.
 1.  [Research experience & Publications](/Rexperience)
 2.  [SLU Teaching Courses](/SLUTeaching)
 3.  [Bioinformatic Tools](/BioinfoTools)
-4.  [PhD projects](/PhDProjects)
-5.  <a href="/aimer-thesis-interactive.html" target="_blank" rel="noopener noreferrer">Interactive
-    Thesis (opens in a new tab)</a>
+4.  <a href="/aimer-thesis-interactive.html" target="_blank" rel="noopener noreferrer">Interactive
+    PhD Thesis</a>
 
 # Scientific Outreach
 
@@ -42,7 +41,7 @@ height: auto"/>
 
 </div>
 
-## Public Research
+# Public Research Repositories
 
 - [ComparativeTranscriptomics_SA_ATGs](https://github.com/AimerGDiaz/ComparativeTranscriptomics_SA_ATGs)
   — Comparative analysis of salicylic acid and autophagy gene responses
