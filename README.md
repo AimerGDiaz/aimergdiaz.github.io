@@ -6,58 +6,22 @@ de Colombia](https://unal.edu.co/). Currently I am a PhD student at the
 Department of Plant Biology at [SLU](https://www.slu.se/), working in
 [Dr. Hafrén’s lab](https://andershafren.wixsite.com/website) on in
 Plant-Virus Molecular interactions. My Ph.D. research focuses on how
-plant viruses manipulate Arabidopsis’s post-transcriptional regulatory
-mechanisms, including RNA interference machinery, Stress granules, and
-Translational regulation.
+plant viruses manipulate *Arabidopsis thaliana’s* post-transcriptional
+regulatory mechanisms, including RNA interference machinery, Stress
+granules, and Translational regulation.
 
 # Content
 
-1.  [Research experience & Publications](/Rexperience.md)
-2.  [SLU Teaching Courses](/SLUTeaching.md)
-3.  [Bioinformatic
-    Tools](https://github.com/AimerGDiaz/#public-repositories)
-4.  [Scientific
-    Outreach](https://github.com/AimerGDiaz/#science-communication)
+1.  [Research experience & Publications](/Rexperience)
+2.  [SLU Teaching Courses](/SLUTeaching)
+3.  [Bioinformatic Tools](/BioinfoTools)
+4.  [PhD projects](/PhDProjects)
+5.  <a href="/aimer-thesis-interactive.html" target="_blank" rel="noopener noreferrer">Interactive
+    Thesis (opens in a new tab)</a>
 
-## Public repositories
+# Scientific Outreach
 
-- [ProEnd](https://github.com/AimerGDiaz/proend-scripts)
-
-- [NBlockTester](https://github.com/AimerGDiaz/NBlockTester)
-
-- [Selection of codes in bash, awk, perl, python and
-  R](https://github.com/AimerGDiaz/Codes_Repository)
-
-<!--
-# PhD projects
-&#10;Private repositories
-&#10;-   [Vertical Virus Transmission in RNA Interference Deficient Plants](https://github.com/AimerGDiaz/TRoV_NextGeneration)
-&#10;-   [Rider of the Plant’s defense storm: Turnip Mosaic Virus modulates Plant’s stress granule response](https://github.com/AimerGDiaz/TuMV_SG_repurposing)   
-&#10;-   [CaMV and the Nightless Day: The Virus That Keeps Arabidopsis in a State of Restless Translation](https://github.com/AimerGDiaz/UPSC_Riboseq)
-&#10;-   [Mutually Exclusive Binding of P6 Complexes to dsRNA or TOR Determines Its Role in Transactivation vs RNA-granules Condensation](https://github.com/AimerGDiaz/ProteinStructure)
--->
-
-# Additional repositories
-
-- [IP-Proteomis: Diferential Viral manipulation of
-  UPBs](https://github.com/AimerGDiaz/Ub_IP_TuMV-CMV-CaMV)
-
-- [CaMV manipulation of autophagy
-  pathway](https://github.com/AimerGDiaz/IP_ATG8a-NBR1)
-
-- [Viral
-  Meta-Transcriptomics](https://github.com/AimerGDiaz/PlantVirology)
-
-- [PTM Proteomics](https://github.com/AimerGDiaz/Proteomics_PTM)
-
-- [RNA editing in *Trypanosomes* as mutational Robustness
-  mechanism](https://github.com/AimerGDiaz/Trypanosomes_RNA_editing)
-
-- [*Trypanosomes* Guide RNAs
-  Networks](https://github.com/AimerGDiaz/gRNA-Annotation)
-  <!--https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd-->
-
-# Science communication
+Science communication blog:
 
 - [Bio-Viroloía](https://github.com/AimerGDiaz/Bio-Virologia) blog and
   [bookdown](https://aimergdiaz.github.io/Bio-Virologia/)
@@ -77,3 +41,73 @@ height: auto"/>
 <a name="TuMV_GFP"></a>
 
 </div>
+
+## Public Research
+
+- [ComparativeTranscriptomics_SA_ATGs](https://github.com/AimerGDiaz/ComparativeTranscriptomics_SA_ATGs)
+  — Comparative analysis of salicylic acid and autophagy gene responses
+  to viral infection using published RNA-seq data.
+- [P25_ViralTF](https://github.com/AimerGDiaz/P25_ViralTF) — Research on
+  the BNYVV P25 protein as a chromatin-associated transcriptional
+  repressor.
+- [ProteinStructure](https://github.com/AimerGDiaz/ProteinStructure) —
+  Structural analysis workflows for CaMV P6 complexes predicted with
+  AlphaFold 3 and Protenix.
+- [RdRpStructuralEvolution](https://github.com/AimerGDiaz/RdRpStructuralEvolution)
+  — RdRp structures and transcriptomics supporting research on RNA
+  silencing, plant fertility, and Turnip rosette virus transmission.
+- [TpUGT89B1_Docking](https://github.com/AimerGDiaz/TpUGT89B1_Docking) —
+  Structural modeling and protein–ligand docking of red clover
+  TpUGT89B1.
+
+## Tools and workflows
+
+- [Codes_Repository](https://github.com/AimerGDiaz/Codes_Repository) — A
+  collection of Bash, AWK, Perl, and R code.
+
+- [NBlockTester](https://github.com/AimerGDiaz/NBlockTester) — A Perl
+  tool for detecting miRNA-like fragments derived from small noncoding
+  RNAs in small RNA-seq data.
+
+- [Proend](https://github.com/AimerGDiaz/Proend) (fork) — HbYX motif
+  prediction across organisms and viruses.
+
+- [proend-scripts](https://github.com/AimerGDiaz/proend-scripts) (fork)
+  — Scripts for identifying HbYX motif-containing protein sequences in
+  FASTA files.
+
+- [RNAseq-workflow](https://github.com/AimerGDiaz/RNAseq-workflow)
+  (fork) — Resources for setting up an RNA-seq workflow.
+
+## Teaching and learning
+
+- [Hands_On_Machine_LeaRning](https://github.com/AimerGDiaz/Hands_On_Machine_LeaRning)
+
+- [Sociovirology_Lab](https://github.com/AimerGDiaz/Sociovirology_Lab) —
+  A laboratory exercise on viral genetics and plant growth–defense
+  trade-offs in the Nicotiana benthamiana / Turnip mosaic virus system.
+
+- [LaTeX_Course](https://github.com/AimerGDiaz/LaTeX_Course) (fork) —
+  Introductory LaTeX course materials, templates, examples, and
+  exercises in Spanish.
+
+# Additional repositories
+
+- [RNA editing in *Trypanosomes* as mutational Robustness
+  mechanism](https://github.com/AimerGDiaz/Trypanosomes_RNA_editing)
+
+- [*Trypanosomes* Guide RNAs
+  Networks](https://github.com/AimerGDiaz/gRNA-Annotation)
+
+- [PTM Proteomics](https://github.com/AimerGDiaz/Proteomics_PTM)
+
+- [Viral
+  Meta-Transcriptomics](https://github.com/AimerGDiaz/PlantVirology)
+
+- [IP-Proteomis: Diferential Viral manipulation of
+  UPBs](https://github.com/AimerGDiaz/Ub_IP_TuMV-CMV-CaMV)
+
+- [CaMV manipulation of autophagy
+  pathway](https://github.com/AimerGDiaz/IP_ATG8a-NBR1)
+
+<!--https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd-->
